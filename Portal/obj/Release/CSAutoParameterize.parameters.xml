@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="dbMysqlLocalhost-Web.config Connection String" description="dbMysqlLocalhost Connection String used in web.config by the application to access the database." defaultValue="server=localhost;database=portal;uid=root;password=a8sZcqtu;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\WorkProjects\\Portal\\Portal\\Portal\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='dbMysqlLocalhost']/@connectionString" />
+  </parameter>
+  <parameter name="dbSqlLocalhost-Web.config Connection String" description="dbSqlLocalhost Connection String used in web.config by the application to access the database." defaultValue="Data Source=OHSVRSQL14TEST.TDG.INT;Initial Catalog=CMS_Portal;User Id=A7AE8260DEE0;Password=1A74BB6C16ED;" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\WorkProjects\\Portal\\Portal\\Portal\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='dbSqlLocalhost']/@connectionString" />
+  </parameter>
+</parameters>

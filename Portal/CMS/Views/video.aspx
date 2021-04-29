@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="video.aspx.cs" Inherits="Portal.CMS.Views.video" %>
