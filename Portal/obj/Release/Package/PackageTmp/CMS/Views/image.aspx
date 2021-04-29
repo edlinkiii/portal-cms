@@ -1,1 +1,0 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="image.aspx.cs" Inherits="Portal.CMS.Views.image1" %>
